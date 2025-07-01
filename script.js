@@ -5,7 +5,7 @@ const message = document.getElementById("message").value;
 
 function send() {
   alert(
-    `Nama : ${nama.value}, Email : ${email.value}, Subject : ${subject.value}, Message : ${message.value}`
+    `Nama : ${nama.value}, Email : ${email.value}, Subject : ${subject.value}, Message : ${message.value} SABAR BELUM BISA LANGUSNG MASUK KE EMAIL`
   );
 }
 
